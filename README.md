@@ -1,4 +1,4 @@
-# PyData
+# TurinFlow
 Python implementation of a microservice which links Torino traffic datacenter with Kafka
 ## Requirements
 * [Zookeeper 3.4.x](https://zookeeper.apache.org/releases.html#download)
